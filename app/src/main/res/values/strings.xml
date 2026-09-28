@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MySubmissionOneCompose</string>
+
+    <string-array name="food_name">
+        <item>Ayam Betutu</item>
+        <item>Coto Makassar</item>
+        <item>Gudeg</item>
+        <item>Ikan Kuah Pala Banda</item>
+        <item>Karedok</item>
+        <item>Kerak Telor</item>
+        <item>Mie Gomak</item>
+        <item>Pempek</item>
+        <item>Rendang</item>
+        <item>Soto Banjar</item>
+    </string-array>
+
+    <string-array name="food_location">
+        <item>Bali</item>
+        <item>Makassar</item>
+        <item>Yogyakarta</item>
+        <item>Maluku</item>
+        <item>Jawa Barat</item>
+        <item>Jakarta</item>
+        <item>Sumatera Utara</item>
+        <item>Sumatera Selatan</item>
+        <item>Sumatera Barat</item>
+        <item>Banjarmasin</item>
+    </string-array>
+
+    <string-array name="food_description">
+        <item>Betutu adalah lauk yang terbuat dari ayam atau bebek yang utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Betutu ini telah dikenal di seluruh kabupaten di Bali. Betutu merupakan jenis makanan tradisional daerah Bali yang bahan mentahnya berupa karkas utuh itik dan ayam.</item>
+        <item>Coto makassar atau coto mangkasara adalah makanan tradisional Makassar, Sulawesi Selatan. Makanan ini terbuat dari jeroan sapi yang direbus dalam waktu yang lama. Rebusan jeroan bercampur daging sapi ini kemudian diiris-iris lalu dibumbui dengan bumbu yang diracik secara khusus. Coto dihidangkan dalam mangkuk dan dinikmati dengan ketupat dan buras, yakni sejenis ketupat yang dibungkus daun pisang.</item>
+        <item>Gudeg adalah makanan tradisional yang terbuat dari nangka muda (nangka) yang direbus selama beberapa jam dengan gula kelapa serta santan. Dengan dilengkapi dengan berbagai bumbu tambahan membuat Gudeg menjadi terasa manis dilidah dan memiliki rasa yang khas dan enak sesuai dengan selera masyarakat Jawa pada umumnya.</item>
+        <item>Makanan khas Maluku ikan kuah pala banda adalah kreasi kuliner yang wajib dicicipi. Sesuai namanya, kudapan ini berasal dari Kepulauan Banda, Maluku Tengah. Makanan khas Maluku ini menggunakan bahan dasar ikan kerapu atau ikan kakap. Berbagai bumbu digunakan, seperti merica, pala, dan jenis rempah lainnya.</item>
+        <item>Makanan ini terbuat dari campuran sayur sayuran, seperti tauge, kacang kacangan, kubis, kemangi, terong kecil, dan timun mentah. Sebagai penambah rasa, makanan ini akan disiram menggunakan bumbu kacang.</item>
+        <item>Kerak telor adalah makanan khas Betawi yang terbuat dari campuran beras ketan, telur bebek, dan kelapa parut sangrai. Cara masak kerak telor ala rumahan bisa pakai wajan dadar antilengket.</item>
+        <item>Mie Gomak khas Batak merupakan mie yang dibuat dengan cara di-gomak (digenggam) yang memiliki perpaduan rasa  gurih, asin, pedas, namun tetap sedap. Makanan ini bisa kamu nikmati dengan digoreng maupun berkuah. Topping-nya bervariasi, untuk mie gomak goreng biasanya disajikan bersama dengan timun, tomat, atau potongan labu siam. Sedangkan untuk mie gomak berkuah, ada yang ditambah dengan bihun.</item>
+        <item>Makanan ini asalnya dari Palembang, Sumatera Selatan. Makanan ini terbuat dari daging ikan yang digiling lembut, dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain. Misalnya, telur, bawang putih yang dihaluskan, penyedap rasa, dan garam. Pempek biasanya disajikan dengan kuah cuka yang memiliki rasa asam, manis, dan pedas.</item>
+        <item>Rendang adalah masakan daging asli Indonesia yang berasal dari Padang. Makanan ini sangat populer di Indonesia dan mancanegara karena kelezatannya. Bahkan, rendang menduduki peringkat pertama dalam daftar World\'s 50 Most Delicious Foods versi CNN International.</item>
+        <item>Soto Banjar dengan bahan utama ayam serta memiliki aroma harum rempah-rempah seperti kayu manis, biji pala, dan cengkih. Adakalanya pembuatan kuah soto banjar dapat dicampurkan dengan sedikit susu yang membuat warna kuahnya mejadi tidak bening, tetapi sedikit keruh. Soto ini berisi daging ayam yang sudah disuwir-suwir, dengan tambahan perkedel, kentang rebus, rebusan telur, potongan wortel dan ketupat.</item>
+    </string-array>
+
+    <string-array name="food_image">
+        <item>https://cdn.jsdelivr.net/gh/supriylb/MySubmissionOne@main/app/src/main/res/drawable/img_ayam_betutu.jpg</item>
+        <item>https://cdn.jsdelivr.net/gh/supriylb/MySubmissionOne@main/app/src/main/res/drawable/img_coto_makassar.jpg</item>
+        <item>https://cdn.jsdelivr.net/gh/supriylb/MySubmissionOne@main/app/src/main/res/drawable/img_gudeg.jpg</item>
+        <item>https://cdn.jsdelivr.net/gh/supriylb/MySubmissionOne@main/app/src/main/res/drawable/img_ikan_kuah_pala_banda.jpg</item>
+        <item>https://cdn.jsdelivr.net/gh/supriylb/MySubmissionOne@main/app/src/main/res/drawable/img_karedok.jpg</item>
+        <item>https://cdn.jsdelivr.net/gh/supriylb/MySubmissionOne@main/app/src/main/res/drawable/img_kerak_telor.jpeg</item>
+        <item>https://cdn.jsdelivr.net/gh/supriylb/MySubmissionOne@main/app/src/main/res/drawable/img_mie_gomak.jpg</item>
+        <item>https://cdn.jsdelivr.net/gh/supriylb/MySubmissionOne@main/app/src/main/res/drawable/img_pempek.jpg</item>
+        <item>https://cdn.jsdelivr.net/gh/supriylb/MySubmissionOne@main/app/src/main/res/drawable/img_rendang.jpg</item>
+        <item>https://cdn.jsdelivr.net/gh/supriylb/MySubmissionOne@main/app/src/main/res/drawable/img_soto_banjar.jpg</item>
+    </string-array>
+
+    <string name="action_back">Back</string>
+    <string name="action_share">Share</string>
+
+    <string name="title_share_via">Share via</string>
+    <string name="msg_data_not_found">Food data not found.</string>
+
+    <string name="about_title">About Me</string>
+    <string name="about_name">Supriyanto Lumbanbatu</string>
+    <string name="about_email">supriyantolumbanbatu@gmail.com</string>
+    <string name="about_photo">https://cdn.jsdelivr.net/gh/supriylb/MySubmissionOne@main/app/src/main/res/drawable/photo_me.jpg</string>
+</resources>
